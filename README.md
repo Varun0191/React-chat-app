@@ -10,4 +10,7 @@ React.js
 Firebase (Realtime Database, Authentication)
 HTML/CSS
 
-## Snaps of UI
+## Snaps of ui
+![Login page](login.png)
+![chats](chats.png)
+![preview](preview.png)
